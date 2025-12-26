@@ -40,7 +40,7 @@ In practice, this relates to selecting an appropriate window length `s`, using s
 
 ## How to run
 1. Open MATLAB and ensure required toolboxes for control/system modeling are available.
-2. Open the Simulink model: `simulink/<YOUR_MODEL_NAME>.slx`
+2. Open the Simulink model
 3. Run the simulation.
 4. Inspect:
    - System output `y` in healthy and faulty cases
